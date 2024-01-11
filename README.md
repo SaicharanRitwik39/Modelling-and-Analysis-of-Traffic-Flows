@@ -16,4 +16,4 @@ equilibrium points has been carried out using the retardation number while the
 global stability analysis has been performed using LaSalle’s invariance principle.
 The numerical simulations were carried out using Python. Furthermore
 the sensitivity analysis of the parameters has been performed via two methods: a derivative-based local
-method and algorithmic differentiation. The web application has been developed using streamlit.
+method and algorithmic differentiation. 
